@@ -18,8 +18,4 @@ object AppModule {
     fun provideTestString1() = "This is a string we will inject"
 
 
-//    @Singleton
-//    @Provides
-//    @Named("String2")
-//    fun provideTestString2() = "This second string to inject"
 }
